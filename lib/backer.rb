@@ -17,7 +17,7 @@ attr_accessor :name, :backed_projects
     project.backers << self
     #binding.pry
   end
- binding.pry
+ #binding.pry
 #name.back_project("title")
 
 
